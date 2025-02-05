@@ -1,7 +1,4 @@
 # healthcare-claims-analysis
-SQL &amp; Power BI project analyzing healthcare claims and pharmacy spending trends
-
-# Healthcare Claims & Pharmacy Analysis  
 Analyzing healthcare claims data to identify **cost trends, fraud detection, and pharmacy spending patterns** using **SQL and Power BI**.  
 
 ## 📌 Key Insights  
